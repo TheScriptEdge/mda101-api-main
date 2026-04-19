@@ -1,4 +1,4 @@
-# MAD101.org custom Client 
+# mda101.org custom Client 
 
 * work in progress~()
 play wright api for mad101.org enjoy :) 
