@@ -6,7 +6,7 @@ playwright api for mda101.org enjoy :)
 
 
 ### 1. Backend Setup
-In the `backend` directory and install dependencies:
+go to the `backend` directory and install dependencies:
 ```bash
 cd backend
 python -m venv .venv
@@ -20,7 +20,7 @@ python main.py
 ```
 
 ### 2. Frontend Setup
-In the `frontend` directory and install dependencies:
+go to the `frontend` directory and install dependencies:
 ```bash
 cd frontend
 npm install
