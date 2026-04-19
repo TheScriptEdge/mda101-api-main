@@ -1,7 +1,9 @@
 # mda101.org custom Client 
 
-* work in progress~(have some stuff missing and some bugs)
-playwright api for mda101.org enjoy :) 
+* work in progress~
+   (have some stuff missing and some bugs to fix)  
+
+playwright based "api" for mda101.org enjoy :) 
 
 
 
