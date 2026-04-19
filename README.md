@@ -6,7 +6,7 @@ play wright api for mad101.org enjoy :)
 
 
 ### 1. Backend Setup
-Navigate to the `backend` directory and install dependencies:
+In the `backend` directory and install dependencies:
 ```bash
 cd backend
 python -m venv .venv
@@ -20,7 +20,7 @@ python main.py
 ```
 
 ### 2. Frontend Setup
-Navigate to the `frontend` directory and install dependencies:
+In the `frontend` directory and install dependencies:
 ```bash
 cd frontend
 npm install
